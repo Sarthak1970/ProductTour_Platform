@@ -1,12 +1,12 @@
-# 🧭 Project Tours – Build & Share Guided Product Experiences
+# 🧭 Product Tours – Build & Share Guided Product Experiences
 
-**Project Tours** is a full-stack platform that helps users create and manage interactive product walkthroughs. It provides tools to record, organize, and publish tours with visuals and screen captures—ideal for showcasing features or onboarding users.
+**Product Tours** is a full-stack platform that helps users create and manage interactive product walkthroughs. It provides tools to record, organize, and publish tours with visuals and screen captures—ideal for showcasing features or onboarding users.
 
 ---
 
 ## 🎯 Key Goals
 
-With Project Tours, users can:
+With Product Tours, users can:
 
 - 🔐 Register, log in, and maintain sessions securely  
 - 🖼️ Build step-by-step tours using images and screen recordings  
