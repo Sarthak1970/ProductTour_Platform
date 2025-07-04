@@ -16,7 +16,7 @@ const app = express();
 // ✅ Enable CORS for both local and production frontend
 const allowedOrigins = [
   "http://localhost:5173", // Local development
-  "https://tour-craft-frontend.vercel.app", // Deployed frontend (Vercel)
+  "https://product-tour-platform-azure.vercel.app/", // Deployed frontend (Vercel)
 ];
 
 app.use(
