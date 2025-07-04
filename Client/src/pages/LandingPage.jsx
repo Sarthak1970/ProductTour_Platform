@@ -13,7 +13,7 @@ export default function LandingPage() {
   }, [user]);
 
   return (
-    <div className="min-h-screen bg-gradient-to-tr from-gray-100 via-white to-gray-200 dark:from-gray-800 dark:via-gray-900 dark:to-gray-800 flex items-center justify-center px-6">
+    <div className="min-h-screen bg-gradient-to-br from-green-100 via-white to-red-200 dark:from-gray-700 dark:via-blue-900 dark:to-green-800 flex items-center justify-center px-6">
       <div className="max-w-2xl text-center p-10 bg-white dark:bg-gray-900 bg-opacity-80 backdrop-blur-md rounded-lg shadow-xl transition-all duration-300">
         <h1 className="text-5xl font-extrabold text-gray-800 dark:text-gray-100 mb-4">
           Welcome to{" "}
